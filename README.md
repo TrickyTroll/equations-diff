@@ -9,7 +9,7 @@ Ce projet est maintenu pour le cours *Calcul avancé* donné au
 ### Démarrer l'environnement
 
 Pour utiliser le *notebook*, cliquez sur le fichier `diff_equations.ipynb` situé plus haut. Vous
-pouvez aussi cliquer sur ce [lien]*https://github.com/TrickyTroll/equations-diff/blob/main/diff_equations.ipynb).
+pouvez aussi cliquer sur ce [lien](https://github.com/TrickyTroll/equations-diff/blob/main/diff_equations.ipynb).
 
 Ensuite, une fois que le *notebook* sera chargé, cliquez sur l'icône «Open in Colab», ou l'équivalent en français.
 Cet icône vous redirigera vers votre propre environnement de calcul. Vous aurez alors à vous connecter avec votre
