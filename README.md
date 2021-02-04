@@ -23,7 +23,7 @@ coup dans le menu `Runtime --> Run all`, ou bien avec les touches `Ctrl/Cmd + F9
 
 ### Tutoriel
 
-Un tutoriel sur l'utilisation de notebooks Python sera bientôt ajouté ici.
+~Un tutoriel sur l'utilisation de notebooks Python sera bientôt ajouté ici.~
 
 ## Sugestions
 
